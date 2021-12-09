@@ -7,12 +7,14 @@ microcontroller based having facility of storing of votes of four candidates by 
 
 Simulation of EVM performed in **Proteus** and Assembly level code written using **KEIL** Software
 
+
 # Software Requirements
-• Proteus( for Circuit diagram and Simulation)
-• Keil uVision5 IDE (for Assembly code and HEX file)
+* Proteus( for Circuit diagram and Simulation)
+* Keil uVision5 IDE (for Assembly code and HEX file)
+
 
 # Components Required
-• 8051 Microcontroller (AT89C51)
-• LCD- LM016L
-• Push Buttons
-• SPST Switch
+* 8051 Microcontroller (AT89C51)
+* LCD- LM016L
+* Push Buttons
+* SPST Switch
